@@ -46,9 +46,9 @@ class Company {
 }
 
 
-const frontendEmployee1: IEmployee = new Frontend("John", "Project A");
-const frontendEmployee2: IEmployee = new Frontend("Alice", "Project B");
-const backendEmployee1: IEmployee = new Backend("Bob", "Project A");
+const frontendEmployee1: IEmployee = new Frontend("Hanna", "Project A");
+const frontendEmployee2: IEmployee = new Frontend("Helen", "Project B");
+const backendEmployee1: IEmployee = new Backend("Patrick", "Project A");
 const backendEmployee2: IEmployee = new Backend("Eve", "Project C");
 
 

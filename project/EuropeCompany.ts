@@ -39,10 +39,10 @@ class Backend extends Employee {
 }
 
 
-const frontendEmployee1 = new Frontend("John", "Project A");
-const frontendEmployee2 = new Frontend("Alice", "Project B");
-const backendEmployee1 = new Backend("Bob", "Project A");
-const backendEmployee2 = new Backend("Eve", "Project C");
+const frontendEmployee1 = new Frontend("Miriam", "Project A");
+const frontendEmployee2 = new Frontend("Rocky", "Project B");
+const backendEmployee1 = new Backend("Diego", "Project A");
+const backendEmployee2 = new Backend("Lucius", "Project C");
 
 
 const europeCompany = new Company();
